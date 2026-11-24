@@ -8,13 +8,13 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-golden-heron-44-charm-
 
 ## The forecast
 
-> Zorbia: scattered sunshine and one very personal thunderstorm following you to work. Umbrella optional, dignity unlikely.
+> Zorbia: sunny, except one very personal thunderstorm following you to work. Umbrella optional, dignity unlikely.
 
-121 characters, one line.
+112 characters, one line.
 
 ## How it runs
 
-`python3 main.py` (Python 3, stdlib only) writes the forecast to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`), prints it, then reads the file back and asserts it is byte-for-byte the intended line inside the 1–140 character gate. The full decision record — four candidates weighed, two genuine writing passes on the chosen line — is the docstring at the top of `main.py`.
+`python3 main.py` (Python 3, stdlib only) writes the forecast to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`), prints it, then reads the file back and asserts it is byte-for-byte the intended line inside the 1–140 character gate. The full decision record — four candidates weighed, two genuine writing passes on the chosen line, plus a substantial REVISION PASS (24 Nov 2026) with a detailed criterion-by-criterion critique, five fresh alternative forecasts, and a tightening pass (121 → 112 chars) — is the docstring at the top of `main.py`.
 
 ## Referral
 
